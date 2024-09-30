@@ -8,10 +8,8 @@ Welcome to my page!\
 I'm Junhoe, from 🇰🇷 **Korea**
 
 <div style="display: flex; justify-content: center; width: 100%;">
-  <div style="display: flex; gap: 10px; width: 100%;">
     <img src="https://github-readme-stats.vercel.app/api?username=KimJunhoe153&show_icons=true&theme=tokyonight&layout=compact" style="height: 200px; width: 50%;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimJunhoe153&layout=compact&theme=tokyonight" style="height: 200px; width: 50%;"/>
-  </div>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KimJunhoe153&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
