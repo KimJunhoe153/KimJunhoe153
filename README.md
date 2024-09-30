@@ -15,7 +15,7 @@ I'm Junhoe, from 🇰🇷 **Korea**
 <h3 align="center"><b>Social</b></h3>
 </br>
 <p align="center">
-<a href="mailto:fish.gave.seaweed@gmail.com><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fish.gave.seaweed@gmail.com"/></a>
+<a href="mailto:fish.gave.seaweed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fish.gave.seaweed@gmail.com"/></a>
 <a href="https://www.instagram.com/fish_gave_seaweed"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/fish_gave_seaweed"/></a>
 </p>
 
