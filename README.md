@@ -14,7 +14,7 @@ I'm Junhoe, from 🇰🇷 **Korea**
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,figma,github,photoshop,premier,aftereffects,finalcut" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,figma,github,ps,pr,ae" />
   </a>
 </p>
 
