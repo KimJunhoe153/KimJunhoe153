@@ -14,6 +14,9 @@ I'm Junhoe, from 🇰🇷 **Korea**
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KimJunhoe153&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</br>
+
+<h3 align="center"><b>Skills</b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,figma,github,ps,pr,ae" />
@@ -21,6 +24,7 @@ I'm Junhoe, from 🇰🇷 **Korea**
 </p>
 
 </br>
+
 <h3 align="center"><b>Social</b></h3>
 <p align="center">
 <a href="mailto:fish.gave.seaweed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fish.gave.seaweed@gmail.com"/></a>
