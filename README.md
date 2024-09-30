@@ -12,7 +12,7 @@ I'm Junhoe, from 🇰🇷 **Korea**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimJunhoe153&layout=compact&theme=tokyonight" style="height: 200px; width: auto;"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?github.com/KimJunhoe153=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KimJunhoe153)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <a href="https://skillicons.dev">
