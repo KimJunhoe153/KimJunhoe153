@@ -9,9 +9,8 @@
 Welcome to my page!
 I'm Junhoe, from 🇰🇷 **Korea**
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=KimJunhoe153&show_icons=true&theme=tokyonight&layout=compact" style="height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimJunhoe153&layout=compact&theme=tokyonight" style="height: 200px;"/>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=KimJunhoe153&show_icons=true&theme=tokyonight&layout=compact" style="height: 200px; width: 400px; border: 2px solid black; border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimJunhoe153&layout=compact&theme=tokyonight" style="height: 200px; width: 400px; border: 2px solid black; border-radius: 10px;"/>
 </div>
-
 
