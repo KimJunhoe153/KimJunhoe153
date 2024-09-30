@@ -12,7 +12,6 @@ I'm Junhoe, from 🇰🇷 **Korea**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimJunhoe153&layout=compact&theme=tokyonight" style="height: 200px; width: 50%; flex-grow: 1;"/>
 </div>
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KimJunhoe153&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
