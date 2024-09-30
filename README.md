@@ -20,7 +20,7 @@ I'm Junhoe, from 🇰🇷 **Korea**
   </a>
 </p>
 
-<h3 align="center"><b>Social</b></h3>
+-- <h3 align="center"><b>Social</b></h3>
 </br>
 <p align="center">
 <a href="mailto:fish.gave.seaweed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fish.gave.seaweed@gmail.com"/></a>
