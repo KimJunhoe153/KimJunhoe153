@@ -7,18 +7,12 @@
 Welcome to my page!\
 I'm Junhoe, from 🇰🇷 **Korea**
 
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?KimJunhoe153=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?KimJunhoe153=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-
-
 <div style="display: flex; ">
   <img src="https://github-readme-stats.vercel.app/api?username=KimJunhoe153&show_icons=true&theme=tokyonight&layout=compact" style="height: 200px; width: auto;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimJunhoe153&layout=compact&theme=tokyonight" style="height: 200px; width: auto;"/>
 </div>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?KimJunhoe153=dkssud8150&theme=nord)](https://github.com/KimJunhoe153/github-readme-activity-graph)
 
 <p align="center">
   <a href="https://skillicons.dev">
