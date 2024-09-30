@@ -10,7 +10,6 @@ Welcome to my page!
 I'm Junhoe, from 🇰🇷 **Korea**
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=KimJunhoe153&show_icons=true&theme=tokyonight&layout=compact" style="width: 45%; height: 300px; border: 2px solid black; border-radius: 10px; margin-bottom: 20px;"/>
-\
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimJunhoe153&layout=compact&theme=tokyonight" style="width: 45%; height: 300px; border: 2px solid black; border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KimJunhoe153&show_icons=true&theme=tokyonight&layout=compact" style="width: 100%; height: 300px; border: 2px solid black; border-radius: 10px; margin-bottom: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimJunhoe153&layout=compact&theme=tokyonight" style="width: 100%; height: 300px; border: 2px solid black; border-radius: 10px;"/>
 </div>
