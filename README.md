@@ -4,7 +4,7 @@
 
   # 😄 Hello, World! 반갑습니다.
 
-Welcome to my page!
+Welcome to my page!\
 I'm Junhoe, from 🇰🇷 **Korea**
 
 <div style="display: flex; align: center;">
