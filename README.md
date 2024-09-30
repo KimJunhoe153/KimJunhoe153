@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=twinkling)
 
 # 😄 Hello, world! 반갑습니다.
 
