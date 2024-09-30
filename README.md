@@ -8,8 +8,8 @@ Welcome to my page!\
 I'm Junhoe, from 🇰🇷 **Korea**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KimJunhoe153&show_icons=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimJunhoe153&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KimJunhoe153&show_icons=true&theme=tokyonight"height: 200px; width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimJunhoe153&layout=compact&theme=tokyonight"height: 200px; width="48%" alt="Top Languages" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KimJunhoe153&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
