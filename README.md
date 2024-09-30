@@ -13,7 +13,9 @@ I'm Junhoe, from 🇰🇷 **Korea**
 </p>
 
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=html,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
 </p>
 
 <h3 align="center"><b>Social</b></h3>
