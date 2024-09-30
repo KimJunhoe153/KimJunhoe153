@@ -16,5 +16,5 @@ I'm Junhoe, from 🇰🇷 **Korea**
 </div>
 
 <p align='center'>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&width=100%&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&width=100%&section=footer"/>
 </p>
