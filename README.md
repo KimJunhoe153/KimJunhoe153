@@ -1,6 +1,6 @@
  
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=안녕하세요!%20프론트엔드%20개발자%20김준회입니다!%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello,%20World!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=안녕하세요!%20프론트엔드%20개발자%20김준회입니다!&descAlignY=51&descAlign=62"/>
 </p>
 <br/>
 
