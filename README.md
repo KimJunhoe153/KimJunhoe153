@@ -14,3 +14,5 @@ I'm Junhoe, from 🇰🇷 **Korea**
   <img src="https://github-readme-stats.vercel.app/api?username=KimJunhoe153&show_icons=true&theme=tokyonight&layout=compact" style="height: 200px; width: auto;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimJunhoe153&layout=compact&theme=tokyonight" style=" height: 200px; width: auto;"/>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
