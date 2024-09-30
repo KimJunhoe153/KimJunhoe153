@@ -12,7 +12,9 @@ I'm Junhoe, from 🇰🇷 **Korea**
 </div>
 </p>
 
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=html,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+</p>
 
 <h3 align="center"><b>Social</b></h3>
 </br>
