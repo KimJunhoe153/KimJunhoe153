@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&width=100%&section=header&text=안녕하세요,%20Frontend%20개발자%20김준회입니다!&fontSize=42&animation=twinkling&fontAlign=50&fontAlignY=40&desc=제%20GitHub에%20방문해주셔서%20감사합니다!%20😊&descAlignY=53&descAlign=50"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&width=100%&section=header&text=안녕하세요,%20Frontend%20개발자%20김준회입니다!&fontSize=42&animation=twinkling&fontAlign=50&fontAlignY=40&desc=제%20GitHub에%20방문해주셔서%20감사합니다!%20👀&descAlignY=53&descAlign=50"/>
 </p>
 
 # 😄 Hello, World! 반갑습니다.
